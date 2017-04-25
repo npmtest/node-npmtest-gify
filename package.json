@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [gify (v0.2.0)](https://github.com/visionmedia/node-gify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gify.svg)](https://travis-ci.org/npmtest/node-npmtest-gify)",
+    "description": "#### basic test coverage for  [gify (v0.2.0)](https://github.com/visionmedia/node-gify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gify.svg)](https://travis-ci.org/npmtest/node-npmtest-gify)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "gify": "*",

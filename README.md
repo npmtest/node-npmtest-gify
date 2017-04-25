@@ -1,6 +1,6 @@
 # npmtest-gify
 
-#### test coverage for  [gify (v0.2.0)](https://github.com/visionmedia/node-gify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gify.svg)](https://travis-ci.org/npmtest/node-npmtest-gify)
+#### basic test coverage for  [gify (v0.2.0)](https://github.com/visionmedia/node-gify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gify.svg)](https://travis-ci.org/npmtest/node-npmtest-gify)
 
 #### Convert videos to animated gifs
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gify/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gify/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gify/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gify/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gify/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gify/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gify/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gify/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gify/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gify/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gify/build/coverage.html/index.html)
 
