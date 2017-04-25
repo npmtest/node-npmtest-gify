@@ -6,8 +6,8 @@
 <tspan x="10" y="58">node_modules</tspan>
 <tspan x="10" y="74">└─┬ gify@0.2.0 </tspan>
 <tspan x="10" y="90">  ├── commander@2.0.0 </tspan>
-<tspan x="10" y="106">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="122">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="106">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="122">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="138">  ├── mkdirp@0.3.5 </tspan>
 <tspan x="10" y="154">  ├── shell-escape@0.0.0 </tspan>
 <tspan x="10" y="170">  └── uid2@0.0.3</tspan>
